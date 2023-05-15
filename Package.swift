@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "Shimmer",
     platforms: [
-        .iOS(.v9),
+        .iOS(.v11),
         .tvOS(.v10)
     ],
     products: [
